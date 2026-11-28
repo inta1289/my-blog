@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/inta1289/my-blog/issues"
   },
-  "homepage": "https://github.com/inta1289/my-blog#readme"
+  "homepage": "https://github.com/inta1289/my-blog#readme",
+  "dependencies": {
+    "marked": "^18.3.0"
+  }
 }

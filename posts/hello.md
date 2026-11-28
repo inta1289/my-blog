@@ -15,3 +15,14 @@ const titles = posts.map(post => post.title);
 ```
 
 자세한 건 [내 GitHub](https://github.com/inta1289/my-blog)에 있다.
+
+## 더 써 보기
+
+1. 숫자 목록 첫째
+2. 숫자 목록 둘째
+
+> 인용문이에요.
+
+*기울임* 과 ~~취소선~~
+
+---
